@@ -1,2 +1,2 @@
 # SQL-50
-SQL 50 Solutions
+ Solutions of LeetCode's SQL 50 Free study plan problems
